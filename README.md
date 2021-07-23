@@ -13,4 +13,8 @@ and start the app using
 ```bash
 npm start
 ```
-Or use the lastest build
+for building the app on detected operating system
+```bash
+npm run make
+```
+Or use the lastest build for windows
